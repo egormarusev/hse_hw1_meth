@@ -12,8 +12,6 @@
 
 Цитозина - мало
 
-Потому что неметилированный цитозин заменяется на урацил->тимин
-
 ![image](https://user-images.githubusercontent.com/75699392/154679677-718a7645-f56c-4b52-90c1-db5b936e895c.png)
 
 ![image](https://user-images.githubusercontent.com/75699392/154679787-3d8a736b-1437-4f49-97be-6c6dd0005246.png)
