@@ -33,7 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/75699392/154678738-0863d0f1-f779-4053-96dc-c91e86a2b04a.png)
 
-Процент CpG метилирования около 43%
+Процент CpG метилирования около 42%
 
 ### Epiblast
 
